@@ -14,6 +14,8 @@ Sure, feel free to!
 [![Email - junesshr@gmail.com](https://img.shields.io/badge/Email-junesshr%40gmail.com-red?style=for-the-badge&logo=gmail)](https://t.me/kolleifoss)
 [![Mastodon - @kolleifoss](https://img.shields.io/badge/Mastodon-%40kolleifoss-blueviolet?style=for-the-badge&logo=mastodon)](https://t.me/kolleifoss)
 
+Also check out my [Workflow Layout](https://github.com/junesshr/junesshr/blob/main/pleaseread.md) to get insights on what days and time i'll be actively working.
+
 ---
 
 ### Languages and Tools
