@@ -10,8 +10,8 @@
 Sure, feel free to!
 
 [![Telegram - KolleiTG](https://img.shields.io/badge/Telegram-@kolleifoss-2ea44f?style=for-the-badge&logo=Telegram)](https://t.me/kolleifoss)
-[![Email - junesshr@gmail.com](https://img.shields.io/badge/Email-junesshr%40gmail.com-red?style=for-the-badge&logo=gmail)](https://t.me/kolleifoss)
-[![Mastodon - @kolleifoss](https://img.shields.io/badge/Mastodon-%40kolleifoss-blueviolet?style=for-the-badge&logo=mastodon)](https://t.me/kolleifoss)
+[![Email - junesshr@gmail.com](https://img.shields.io/badge/Email-junesshr%40gmail.com-red?style=for-the-badge&logo=gmail)](<a href="mailto:junesshr@gmail.com">)
+[![Mastodon - @kolleifoss](https://img.shields.io/badge/Mastodon-%40kolleifoss-blueviolet?style=for-the-badge&logo=mastodon)](https://mas.to/@kolleifoss)
 
 Also check out my [Workflow Layout](https://github.com/junesshr/junesshr/blob/main/pleaseread.md) to get insights on what days and time i'll be actively working.
 
