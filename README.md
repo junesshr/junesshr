@@ -1,6 +1,5 @@
 # Hi there! I'm Kollei - aka [junes!foss](https://github.com/junesshr)
 
- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## What am i doing on GitHub?
 - I take part on maintaining [this repo](https://github,com/PojavLauncherTeam/PojavLauncherTeam.github.io), putting me into position on being it's lead maintainer.
