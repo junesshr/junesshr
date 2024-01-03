@@ -4,7 +4,7 @@
 ## What am i doing on GitHub?
 - I take part on maintaining [this repo](https://github,com/PojavLauncherTeam/PojavLauncherTeam.github.io), putting me into position on being it's lead maintainer.
 - 👨‍💻 I'm currently working on a [fetch program written in Rust](https://github.com/junesshr/oxyfetch), being my first proper project.
-- 📚 I'm also learning Python, the three holy web languages, C+, and Rust as years goes by.
+- 📚 I'm also learning Python, the three holy web languages, C, and Rust as years goes by.
 - 💪🏼 I'll try to sharpen my knowledge on programming as far as i can.
 ### Want to get in touch with me?
 Sure, feel free to!
