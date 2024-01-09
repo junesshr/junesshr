@@ -1,8 +1,8 @@
-# Hi there! I'm Kollei - aka [junes!foss](https://github.com/junesshr)
+# Hi there! I'm Kale - aka [junes!foss](https://github.com/junesshr)
 
 
 ## What am i doing on GitHub?
-- I take part on maintaining [this repo](https://github,com/PojavLauncherTeam/PojavLauncherTeam.github.io), putting me into position on being it's lead maintainer.
+- I take part on maintaining [this repo](https://github.com/PojavLauncherTeam/PojavLauncherTeam.github.io), putting me into position on being it's lead maintainer.
 - 👨‍💻 I'm currently working on a [fetch program written in Rust](https://github.com/junesshr/oxyfetch), being my first proper project.
 - 📚 I'm also learning Python, the three holy web languages, C, and Rust as years goes by.
 - 💪🏼 I'll try to sharpen my knowledge on programming as far as i can.
@@ -18,7 +18,7 @@ Also check out my [Workflow Layout](https://github.com/junesshr/junesshr/blob/ma
 ---
 
 ### Languages and Tools
-![Linux](https://img.shields.io/badge/Linux-grey?logo=linux)
+![Linux](https://img.shields.io/badge/Windows-grey?logo=Windows)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-grey?logo=visualstudiocode&logoColor=blue)
 ![Obsidian](https://img.shields.io/badge/Obsidian-grey?logo=obsidian&logoColor=violet)
 
